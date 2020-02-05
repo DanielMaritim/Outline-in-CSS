@@ -1,0 +1,26 @@
+body {
+	margin-top:20px;
+}
+p.one {
+	outline-style:dotted;
+	text-align:center;
+	margin:10px;
+	color:red;
+}
+p.two {
+	outline-style:dashed;
+	text-align:center;
+	margin:10px;
+	color:green;
+}
+p.three {
+	outline-style:solid;
+	text-align:center;
+	margin:10px;
+	color:blue;
+}
+p.four {
+	outline-style:double;
+	text-align:center;
+	margin:10px;
+}
