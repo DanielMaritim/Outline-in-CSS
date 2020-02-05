@@ -1,0 +1,2 @@
+# Outline-in-CSS
+An outline is a line around the element.It should not be confused with a border,It is usually outside the border.The diffrence between the two is that an outline goes around the element and it can not be specified on particular sides.It is also not part of the box model and it wont affect the postion of the element or adjacent elements.Outline uses the outline-style property to effect changes.It as afew values including solid,dashed,inset,outset,dotted,double and groove.
